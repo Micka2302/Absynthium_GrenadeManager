@@ -1,0 +1,12 @@
+C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\bin\Debug\net8.0\Absynthium_GrenadeManager.deps.json
+C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\bin\Debug\net8.0\Absynthium_GrenadeManager.dll
+C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\bin\Debug\net8.0\Absynthium_GrenadeManager.pdb
+C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\obj\Debug\net8.0\Absynthium_GrenadeManager.csproj.AssemblyReference.cache
+C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\obj\Debug\net8.0\Absynthium_GrenadeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\obj\Debug\net8.0\Absynthium_GrenadeManager.AssemblyInfoInputs.cache
+C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\obj\Debug\net8.0\Absynthium_GrenadeManager.AssemblyInfo.cs
+C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\obj\Debug\net8.0\Absynthium_GrenadeManager.csproj.CoreCompileInputs.cache
+C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\obj\Debug\net8.0\Absynthium_GrenadeManager.dll
+C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\obj\Debug\net8.0\refint\Absynthium_GrenadeManager.dll
+C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\obj\Debug\net8.0\Absynthium_GrenadeManager.pdb
+C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\obj\Debug\net8.0\ref\Absynthium_GrenadeManager.dll
