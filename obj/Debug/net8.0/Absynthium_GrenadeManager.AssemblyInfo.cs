@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Absynthium_GrenadeManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e5dba8749d70e50298ce2359fd4d31cce4a0e4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Absynthium_GrenadeManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Absynthium_GrenadeManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
