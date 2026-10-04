@@ -6,10 +6,12 @@ $root = Split-Path -Parent $MyInvocation.MyCommand.Path
 Set-Location $root
 
 $solution = Join-Path $root 'Absynthium_GrenadeManager.sln'
-$buildOutput = Join-Path $root 'bin/Release/net8.0'
+$buildOutput = Join-Path $root 'bin/Release/net10.0'
 $compiledRoot = Join-Path $root 'compiled'
 $pluginName = 'Absynthium_GrenadeManager'
 $pluginTarget = Join-Path $compiledRoot "counterstrikesharp/plugins/$pluginName"
+$langSource = Join-Path $root 'lang'
+$langTarget = Join-Path $pluginTarget 'lang'
 
 # Clean staging directory
 Remove-Item -Recurse -Force $compiledRoot -ErrorAction SilentlyContinue
@@ -24,6 +26,14 @@ if (-not (Test-Path $buildOutput)) {
 
 # Stage plugin files
 Copy-Item -Path (Join-Path $buildOutput '*') -Destination $pluginTarget -Recurse -Force
+
+# Ensure language files are always shipped with the package.
+if (Test-Path $langSource) {
+    New-Item -ItemType Directory -Path $langTarget -Force | Out-Null
+    Copy-Item -Path (Join-Path $langSource '*') -Destination $langTarget -Recurse -Force
+} else {
+    Write-Host "[WARN] No lang directory found at $langSource."
+}
 
 # Keep only linux and Windows runtimes to mirror release packaging
 $runtimeDir = Join-Path $pluginTarget 'runtimes'

@@ -10,3 +10,6 @@ C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\obj\Debug\net8.0\Absyn
 C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\obj\Debug\net8.0\refint\Absynthium_GrenadeManager.dll
 C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\obj\Debug\net8.0\Absynthium_GrenadeManager.pdb
 C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\obj\Debug\net8.0\ref\Absynthium_GrenadeManager.dll
+C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\bin\Debug\net8.0\lang\en.json
+C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\bin\Debug\net8.0\lang\fr.json
+C:\Users\micka\Documents\GitHub\Absynthium_GrenadeManager\obj\Debug\net8.0\Absynthium_GrenadeManager.sourcelink.json

@@ -1,0 +1,15 @@
+{
+  "FriendlyFireMessageTemplate": "{grey}[Absynthium - Grenade] {red}{attacker}{white} à lancé une {lightred}{grenade} {white}sur {green}{victim}{white} [HP restant : {orange}{hp}{white}] [TK Grenades : {red}{tk_count}{white}]",
+  "FriendlyFireMessageByGrenade": {},
+  "GrenadeThrowMessageTemplate": "[{team_short}] {attacker} @{place} : {grenade} !",
+  "GrenadeThrowMessageByGrenade": {},
+  "ReverseDamageWarningTemplate": "{grey}[Absynthium - Grenade]{Default} You took {lightred}{damage}{white} damage from your {lightred}{grenade}{white} (teammate hit: {lime}{victim}{white}).",
+  "GrenadeDisplayNames": {
+    "hegrenade": " {LightRed}➜ {white}{attacker}, {green}@{place} {white}: {darkred}☄ Grenade !",
+    "molotov": " {LightRed}➜ {white}{attacker}, {green}@{place} {white}: {orange}♨ Molotov !",
+    "incgrenade": " {LightRed}➜ {white}{attacker}, {green}@{place} {white}: {orange} ♨ Incendiary !",
+    "flashbang": " {LightRed}➜ {white}{attacker}, {green}@{place} {white}: {lightblue}˗ˏˋ★ Flashbang !",
+    "smokegrenade": " {LightRed}➜ {white}{attacker}, {green}@{place} {white}: {grey}☁︎ Smoke !",
+    "decoy": " {LightRed}➜ {white}{attacker}, {green}@{place} {white}: {olive}✦ Decoy!"
+  }
+}

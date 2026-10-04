@@ -1,0 +1,20 @@
+{
+  "FriendlyFireMessageTemplate": " {grey}[Absynthium - Grenade] {red}{attacker}{white} hit {green}{victim}{white} with {lightred}{grenade}{white} [Grenade TK count: {orange}{tk_count}{white}]",
+  "FriendlyFireMessageByGrenade": {},
+  "FriendlyFireRepeatMessageTemplate": " {grey}[Absynthium - Grenade] {red}{attacker}{white} TKed {green}{victim}{white} with {lightred}{grenade}{white}, -{orange}{damage}{white} HP [Victim HP left: {orange}{hp}{white}] [Attacker HP left: {orange}{attacker_hp}{white}] [Grenade TK count: {orange}{tk_count}{white}]",
+  "FriendlyFireRepeatMessageByGrenade": {},
+  "FriendlyFireVictimMessageTemplate": " {grey}[Absynthium - Grenade] {red}{attacker}{white} hit you with {lightred}{grenade}{white}. Reverse TKs taken by thrower: {orange}{reverse_count}{white}",
+  "ReversePendingWarningTemplate": " {grey}[Absynthium - Grenade]{white} Warning {red}{attacker}{white}: {orange}{remaining_tk}{white} grenade TK before {lightred}TK reverse{white} activates.",
+  "ReverseNextWarningTemplate": " {grey}[Absynthium - Grenade]{white} Warning {red}{attacker}{white}: your next teammate grenade hit will apply {lightred}TK reverse{white}.",
+  "GrenadeThrowMessageTemplate": "[{team_short}] {attacker} @{place} : {grenade} !",
+  "GrenadeThrowMessageByGrenade": {},
+  "ReverseDamageWarningTemplate": " {grey}[Absynthium - Grenade]{white} You took {lightred}{damage}{white} damage from your {lightred}{grenade}{white} (teammate hit: {lime}{victim}{white}).",
+  "GrenadeDisplayNames": {
+    "hegrenade": " {lightred}➜ {white}{attacker}, {green}@{place} {white}: {darkred}Grenade !{white}",
+    "molotov": " {lightred}➜ {white}{attacker}, {green}@{place} {white}: {orange}Molotov !{white}",
+    "incgrenade": " {lightred}➜ {white}{attacker}, {green}@{place} {white}: {orange}Incendiary !{white}",
+    "flashbang": " {lightred}➜ {white}{attacker}, {green}@{place} {white}: {lightblue}Flashbang !{white}",
+    "smokegrenade": " {lightred}➜ {white}{attacker}, {green}@{place} {white}: {grey}Smoke !{white}",
+    "decoy": " {lightred}➜ {white}{attacker}, {green}@{place} {white}: {olive}Decoy!{white}"
+  }
+}

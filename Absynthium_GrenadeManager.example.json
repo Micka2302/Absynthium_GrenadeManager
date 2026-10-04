@@ -1,0 +1,17 @@
+﻿{
+  "Version": 9,
+  "AdminPermission": "@css/ban",
+  "DebugShowOwnTkToAttacker": true,
+  "DebugShowOwnTkToAttackerEvenIfAdmin": false,
+  "DebugIncludeSelfDamage": false,
+  "DebugTKReverse": false,
+  "DebugDamageTicks": false,
+  "ReverseGrenadeFriendlyFireEnabled": true,
+  "MinTkToTkReserve": 0,
+  "Language": "en",
+  "LanguageDirectory": "lang",
+  "GrenadeRadioCvar": "sv_ignoregrenaderadio",
+  "GrenadeThrowMessageEnabled": true,
+  "GrenadeThrowMessageScope": "team",
+  "ConfigVersion": 9
+}
